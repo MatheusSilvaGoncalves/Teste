@@ -26,4 +26,4 @@ plot(tamanho,certo*ones(m,1),'r','linewidth',2)
 hold on
 plot(tamanho,resultado,'k','linewidth',2)
 disp('foda-se!')
-disp('vamos ver se foi')
+disp('vamos ver se foi mesmo')
